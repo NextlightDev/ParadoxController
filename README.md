@@ -1,1 +1,1 @@
-# ParadoxController
+# Paradox Controller
