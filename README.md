@@ -2,7 +2,7 @@
 
 ## Introduction
 
-## Getting Started with Paradox mode
+## Getting Started with Paradox mode (PC)
 
 ### Prerequisites on PC
 To start the application, you will need to use one of those operating systems:
@@ -23,4 +23,4 @@ Start up the newly installed application and connect your controller. After that
 
 **How do I use the application?**  [Visit Wiki]()
 
-## Getting Started with Classic mode
+## Getting Started with Classic mode (PC)
