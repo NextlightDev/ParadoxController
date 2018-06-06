@@ -6,8 +6,8 @@
 
 ### Prerequisites on PC
 To start the application, you will need to use one of those operating systems:
-* **Windows 7 or higher** and [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
-* **Linux OS** and [Wine](https://www.wikihow.com/Use-Wine-on-Linux)
+* **Windows 7 or higher** with [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
+* **Linux OS** with [Wine](https://www.wikihow.com/Use-Wine-on-Linux)
 
 ### Download
 Visit the [download page]()
